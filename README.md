@@ -61,6 +61,10 @@ pip install NAME_DER_BIBLIOTHEK
 
 Damit stehen die installierten Bibliotheken sofort in deiner Notebook-Umgebung zur Verfügung.
 
+
+## Erstellte Visualisierungen finden
+Alle Dateien die in den Notebooks erstellt werden, werden im Ordner `/Masterarbeit` gespeichert, im Verzeichnis in dem die Notebooks abgelegt sind.
+
 ---
 
 **Viel Erfolg beim Arbeiten mit dem Notebook!** 🚀
